@@ -1,2 +1,3 @@
 name: Kathryn Speckels
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title

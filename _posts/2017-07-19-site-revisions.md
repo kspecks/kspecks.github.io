@@ -1,8 +1,8 @@
 
 ---
 layout: post
-title: "Hello, World!"
-date: 2017-06-27
+title: "Site Revisions"
+date: 2017-07-19
 ---
 
 Hello! I've been making some progress on this little ol' site. My backgrounds are now smoothed over, fonts are updated,

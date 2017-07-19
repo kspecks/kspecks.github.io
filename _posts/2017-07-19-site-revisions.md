@@ -1,9 +1,4 @@
 
----
-layout: post
-title: "Site Revisions"
-date: 2017-07-19
----
 
 Hello! I've been making some progress on this little ol' site. My backgrounds are now smoothed over, fonts are updated,
 bio is fleshed out, and now this new blog post is up. I'm still working on how to integrate pictures--I really do want to

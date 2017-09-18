@@ -2,7 +2,7 @@ body {
     margin: 60px auto;
     width: 70%;
 }
-nav ul, footer ul {
+nav ul, footer ul, .dropbtn ul {
     font-family:'Garamond', 'Helvetica', 'Sans-Serif';
     padding: 0px;
     list-style: none;
@@ -46,9 +46,7 @@ ul.posts li {
 
 /* Dropdown Button */
 .dropbtn {
-    color: black;
-    font-family:'Garamond', 'Helvetica', 'Sans-Serif';
-    text-decoration: none;
+    
     border: none;
     cursor: pointer;
 }

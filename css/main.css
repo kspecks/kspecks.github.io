@@ -46,7 +46,8 @@ ul.posts li {
 
 /* Dropdown Button */
 .dropbtn {
-    
+    font-family:'Garamond', 'Helvetica', 'Sans-Serif';
+    background-color: none;
     border: none;
     cursor: pointer;
 }

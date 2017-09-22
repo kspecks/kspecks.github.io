@@ -1,6 +1,8 @@
 body {
     margin: 60px auto;
     width: 70%;
+    height: 100%;
+    min-height: 100%;
 }
 nav ul, footer ul {
     font-family:'Garamond', 'Helvetica', 'Sans-Serif';
@@ -49,7 +51,7 @@ ul.posts li {
     font-family:'Garamond', 'Helvetica', 'Sans-Serif';
     text-decoration: none;
     color: #999;
-    background-color: none;
+    background-color: transparent;
     border: none;
     cursor: pointer;
 }
